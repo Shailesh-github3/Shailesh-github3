@@ -101,13 +101,16 @@ strong foundations in DSA, OOP, and scalable application design.
 ## Featured Projects
 
 ### Project 1
-Short description of your best project.
+
+**[ProductHub](https://github.com/Shailesh-github3/ecom-project)**
+  A robust, console-based Java application for managing user records with full CRUD (Create, Read, Update, Delete) operations, data validation, sorting, and file export capabilities.
+  **Stack:** Springboot, React. H2 Database
 
 ### Project 2
-Short description of your second-best project.
 
-### Project 3
-Short description of your strongest technical project.
+**[TaskFlow](https://github.com/Shailesh-github3/UserManagementSystem)**
+  A robust, console-based Java application for managing user records with full CRUD (Create, Read, Update, Delete) operations, data validation, sorting, and file export capabilities.
+  **Stack:** Core Java
 
 ---
 
