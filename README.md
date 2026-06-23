@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shailesh
+# Shailesh Kumar G
 
 ### Software Engineer • Problem Solver • Open Source Builder
 
