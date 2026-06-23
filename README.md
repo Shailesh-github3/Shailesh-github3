@@ -12,28 +12,8 @@
 
 ## About Me
 
-```java
-public class Shailesh {
-
-    String role = "Student & Developer";
-
-    String[] languages = {
-        "Java",
-        "JavaScript",
-        "SQL"
-    };
-
-    String[] interests = {
-        "Backend Development",
-        "Data Structures & Algorithms",
-        "System Design",
-        "Open Source"
-    };
-
-    String currentGoal =
-        "Building impactful projects and mastering software engineering.";
-}
-```
+>> Backend-focused full-stack developer experienced in building secure RESTful applications using Spring Boot, React, and MySQL with
+strong foundations in DSA, OOP, and scalable application design.
 
 ---
 
