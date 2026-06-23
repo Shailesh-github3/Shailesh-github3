@@ -98,15 +98,17 @@ strong foundations in DSA, OOP, and scalable application design.
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-**[ProductHub](https://github.com/Shailesh-github3/ecom-project)**  
-A full-stack e-commerce platform featuring product catalog management, shopping cart functionality, and RESTful API integration. Built with a decoupled architecture separating the React frontend from the Spring Boot backend.  
-**Stack:** Spring Boot, React, H2 Database
+### [ProductHub](https://github.com/Shailesh-github3/ecom-project)
+A full-stack e-commerce platform featuring product catalog management, shopping cart functionality, and RESTful API integration.
+* **Stack:** `Spring Boot` `React` `H2 Database`
+* **Links:** [Live Demo](#) | [API Documentation](#)
 
-**[TaskFlow](https://github.com/Shailesh-github3/UserManagementSystem)**  
-A command-line user management system implementing full CRUD operations, data validation, and persistent file-based storage. Designed with a focus on object-oriented principles and data structures in pure Java.  
-**Stack:** Core Java, File I/O
+### [TaskFlow](https://github.com/Shailesh-github3/UserManagementSystem)
+A command-line user management system implementing full CRUD operations, data validation, and persistent file-based storage.
+* **Stack:** `Core Java` `File I/O`
+* **Links:** [Source Code](https://github.com/Shailesh-github3/UserManagementSystem)
 
 ---
 
