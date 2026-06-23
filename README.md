@@ -12,8 +12,7 @@
 
 ## About Me
 
->> Backend-focused full-stack developer experienced in building secure RESTful applications using Spring Boot, React, and MySQL with
-strong foundations in DSA, OOP, and scalable application design.
+Backend engineer building RESTful APIs with Spring Boot and MySQL, utilizing React for frontend integration. Focused on clean architecture, data structures, and robust system design.
 
 ---
 
